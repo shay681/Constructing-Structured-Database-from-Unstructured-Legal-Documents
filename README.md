@@ -47,7 +47,7 @@ All datasets that are used in this project can be found here:
 | Dataset | Description |
 |   ---   |     ---     |
 | Legal_Clauses | Dataset containing legal clauses extracted from Hebrew legal documents |
-| Precedents | Dataset of legal precedents from Hebrew court decisions |
+| Precedents | Dataset of legal precedents from Hebrew legal documents |
 | Inference_Legal_Clauses | Inference dataset for predicting legal clauses in unstructured text |
 | Inference_Precedents | Inference dataset for predicting legal precedents in unstructured text |
 

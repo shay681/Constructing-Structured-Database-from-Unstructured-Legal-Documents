@@ -58,10 +58,10 @@ All models that are trained and used in this project can be found here:
 
 | Model Name | Desciption |
 |    ---     |    ---     |
-| shay681/HeBERT_finetuned_Legal_Clauses |	HeBERT model fine-tuned on legal clauses |
-| shay681/HeBERT_finetuned_Precedents |	HeBERT model fine-tuned on precedents |
-| shay681/Text2Text_Legal_Clauses_finetuned_model |	Text-to-text model fine-tuned on legal clauses |
-| shay681/Text2Text_Precedents_finetuned_model |	Text-to-text model fine-tuned on precedents |
+| HeBERT_finetuned_Legal_Clauses |	HeBERT model fine-tuned on legal clauses |
+| HeBERT_finetuned_Precedents |	HeBERT model fine-tuned on precedents |
+| Text2Text_Legal_Clauses_finetuned_model |	Text-to-text model fine-tuned on legal clauses |
+| Text2Text_Precedents_finetuned_model |	Text-to-text model fine-tuned on precedents |
 
 
 ### Tested Platform

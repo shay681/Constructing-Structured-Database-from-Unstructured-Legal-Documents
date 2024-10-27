@@ -70,3 +70,6 @@ All models that are trained and used in this project can be found here:
   CPU: Intel(R) Xeon(R) CPU E5-2687W v4 @ 3.00GHz
   GPU: NVIDIA TESLA P40-2Q (24GB)
   ```
+
+### About Me
+Created by Shay Doner. This is my final project as part of intelligent systems M.Sc studies at Afeka College in Tel-Aviv. For more cooperation, please contact email: shay681@gmail.com
